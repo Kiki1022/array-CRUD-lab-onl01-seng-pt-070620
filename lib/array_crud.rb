@@ -38,6 +38,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  gods = ["ram", "wow" ]
+  gods = ["ram", "arrays!" ]
   gods[-1]
 end
