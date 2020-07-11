@@ -33,7 +33,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  gods = ["ram", "sita", "krishna"]
+  gods = ["wow", "sita", "krishna"]
   gods[0]
 end
 
